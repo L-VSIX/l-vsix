@@ -2,6 +2,9 @@
 ### Systèmes, réseaux et cybersécurité | Transformation numérique | Accompagnement et pédagogie
 Professionnel de l'informatique avec 5 années d'expérience, j'interviens sur des missions d'administration systèmes, de support infrastructure et de formation, au sein d'environnements variés. Doté d'une double compétence technique et pédagogique, je m'adapte aussi bien à la gestion de projets complexes qu'à l'accompagnement des utilisateurs.
 
+<img width="1145" height="792" alt="Screenshot 2026-07-21 150540" src="https://github.com/user-attachments/assets/dc36300f-88df-4d6c-8ec0-e8508c38decc" />
+
+
 ## Projets personnels
 - <b>Conception d'une infrastructure informatique domestique (homelab)</b>
    - [Test](https://github.com/L-VSIX/test)
@@ -24,7 +27,8 @@ Professionnel de l'informatique avec 5 années d'expérience, j'interviens sur d
 <h2> Me contacter</h2>
 - 💼 LinkedIn : https://www.linkedin.com/in/lilian-vertueux/
 
-<!--
+<!--[Uploading Homelab.html…]()
+
 **L-VSIX/l-vsix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
