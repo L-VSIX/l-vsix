@@ -16,6 +16,7 @@
        - [Émission de ticket vers Glpi](https://github.com/L-VSIX/test)
    - Configuration de Wazuh :
        - [Conception d'un centre des opérations de sécurité (SOC)](https://github.com/L-VSIX/test)
+       - [Gestion des notifications avec Mattermost](https://github.com/L-VSIX/test)
 - <b>Mise en place du socle système </b>
    - Configuration de Proxmox :
        - [Gestion des ressources systèmes et déploiement des hôtes](https://github.com/L-VSIX/test)
@@ -35,13 +36,23 @@
        - [Conception et documentation](https://github.com/L-VSIX/test)
 - <b>Déploiement du socle applicatifs (homelab)</b>
    - Configuration d'Apache Guacamole :
-       - [Mise en situation dans un contexte Helpdesk](https://github.com/L-VSIX/test)
+       - [Mise en situation dans un contexte helpdesk](https://github.com/L-VSIX/test)
      - Configuration d'Active Directory :
        - [Structuration de l'annuaire](https://github.com/L-VSIX/test)
        - [Automatisation avec Powershell](https://github.com/L-VSIX/test)
        - [Gestion des GPO](https://github.com/L-VSIX/test)
 - <b>Conception du socle d'outils collaboratifs (homelab)</b>
-   - [Configuration et administration de Mattermost](https://github.com/L-VSIX/test)
+     - Configuration de Mattermost :
+       - [Gestion des canaux de communication](https://github.com/L-VSIX/test)
+     - Configuration de Cups :
+       - [Gestion d'un imprimante physique et virtuel](https://github.com/L-VSIX/test)
+       - [Conception d'un "scan to folder"](https://github.com/L-VSIX/test)
+     - Configuration du serveur de fichier :
+       - [Conception de l'architecture DFS](https://github.com/L-VSIX/test)
+       - [Gestion et automatisation des habilitations avec Powershell](https://github.com/L-VSIX/test)
+     - Configuration du GLPI :
+       - [Gestion du support helpdesk](https://github.com/L-VSIX/test)
+       - [Gestion des notifications avec Mattermost](https://github.com/L-VSIX/test)
 
 <h2> Présentation </h2>
 Professionnel de l'informatique avec 5 années d'expérience, j'interviens sur des missions d'administration systèmes, de support infrastructure et de formation, au sein d'environnements variés. Doté d'une double compétence technique et pédagogique, je m'adapte aussi bien à la gestion de projets complexes qu'à l'accompagnement des utilisateurs.
