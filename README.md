@@ -1,5 +1,5 @@
 # Bonjour, moi c'est Lilian !
-### Systèmes, réseaux et cybersécurité | Transformation numérique | Accompagnement et pédagogie
+### Professionnel systèmes, réseaux et cybersécurité | Transformation numérique | Accompagnement et pédagogie
 
 ## Projets personnels
 - <b>Immersion dans un environnement de production </b>
