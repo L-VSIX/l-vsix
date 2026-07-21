@@ -43,10 +43,12 @@
 - <b>Conception du socle d'outils collaboratifs (homelab)</b>
    - [Configuration et administration de Mattermost](https://github.com/L-VSIX/test)
 
-<h2> A propos </h2>
+<h2> Présentation </h2>
 Professionnel de l'informatique avec 5 années d'expérience, j'interviens sur des missions d'administration systèmes, de support infrastructure et de formation, au sein d'environnements variés. Doté d'une double compétence technique et pédagogique, je m'adapte aussi bien à la gestion de projets complexes qu'à l'accompagnement des utilisateurs.
 
-<img width="1148" height="799" alt="Screenshot 2026-07-21 173056" src="https://github.com/user-attachments/assets/62cfbf64-1f2e-4c1d-a040-59c32e8b1bc7" />
+<h2> Champ d'intervention </h2>
+<img width="1135" height="733" alt="champ" src="https://github.com/user-attachments/assets/81a26319-e28a-45f1-b28b-dc42dd63b32d" />
+
 
 <h2> Me contacter</h2>
 - 💼 LinkedIn : https://www.linkedin.com/in/lilian-vertueux/
