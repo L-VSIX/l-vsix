@@ -5,54 +5,56 @@
 - <b>Immersion dans un environnement de production </b>
    - [Création de l'entreprise RAIDAPORTER&Co](https://github.com/L-VSIX/test)
 - <b>Mise en place du datacenter </b>
-   - Découverte des composants :
+   - Découverte des composants du datacenter :
        - [Conception de l'infrastructure](https://github.com/L-VSIX/test)
    - Configuration de Proxmox Backup :
-       - [Conception du plan de reprise d'activité (PRA)](https://github.com/L-VSIX/test)
-       - [Gestion des sauvegardes](https://github.com/L-VSIX/test)
+       - [Élaboration d'un plan de reprise d'activité (PRA)](https://github.com/L-VSIX/test)
+       - [Mise en œuvre de la stratégie de sauvegarde](https://github.com/L-VSIX/test)
    - Configuration de Zabbix :
-       - [Création d'un dashboard](https://github.com/L-VSIX/test)
-       - [Gestion des notifications avec Mattermost](https://github.com/L-VSIX/test)
-       - [Émission de ticket vers Glpi](https://github.com/L-VSIX/test)
+       - [Conception d'un tableau de bord de supervision](https://github.com/L-VSIX/test)
+       - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/test)
+       - [Création automatique de tickets dans GLPI](https://github.com/L-VSIX/test)
    - Configuration de Wazuh :
        - [Conception d'un centre des opérations de sécurité (SOC)](https://github.com/L-VSIX/test)
-       - [Gestion des notifications avec Mattermost](https://github.com/L-VSIX/test)
+       - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/test)
 - <b>Mise en place du socle système </b>
    - Configuration de Proxmox :
        - [Gestion des ressources systèmes et déploiement des hôtes](https://github.com/L-VSIX/test)
 - <b>Déploiement du socle réseau</b>
    - Configuration de Proxmox :
-       - [Commutateur virtuelle](https://github.com/L-VSIX/test)
+       - [Administration de commutateurs virtuels](https://github.com/L-VSIX/test)
    - Configuration d'Hyper V :
-       - [Commutateur virtuelle](https://github.com/L-VSIX/test)
+       - [Administration de commutateurs virtuels](https://github.com/L-VSIX/test)
    - Configuration d'un pare-feu avec OpnSense :
-       - [VLAN et segmentation du réseau](https://github.com/L-VSIX/test)
-       - [Réservation avec Kea DHCP](https://github.com/L-VSIX/test)
+       - [Segmentation du réseau avec les VLAN](https://github.com/L-VSIX/test)
+       - [Configuration des réservations DHCP avec Kea](https://github.com/L-VSIX/test)
    - Mise en place d'un accès VPN avec Tailscale :
-       - [Routage des sous-réseaux](https://github.com/L-VSIX/test)
+       - [Configuration du routage des sous-réseaux](https://github.com/L-VSIX/test)
    - Déploiement d'une infrastructure Wi-Fi :
-       - [Transformer une raspberry en point d'accès](https://github.com/L-VSIX/test)
+       - [Transformation d'un Raspberry Pi en point d'accès Wi-Fi](https://github.com/L-VSIX/test)
    - Découverte de l'infrastructure réseau:
-       - [Conception et documentation](https://github.com/L-VSIX/test)
+       - [Documentation et cartographie du réseau](https://github.com/L-VSIX/test)
 - <b>Déploiement du socle applicatifs (homelab)</b>
+   - Configuration d'OrangeHRM :
+       - [Gestion et administration des comptes utilisateurs](https://github.com/L-VSIX/test)
    - Configuration d'Apache Guacamole :
        - [Mise en situation dans un contexte helpdesk](https://github.com/L-VSIX/test)
      - Configuration d'Active Directory :
-       - [Structuration de l'annuaire](https://github.com/L-VSIX/test)
-       - [Automatisation avec Powershell](https://github.com/L-VSIX/test)
-       - [Gestion des GPO](https://github.com/L-VSIX/test)
+       - [Structuration de l'annuaire Active Directory](https://github.com/L-VSIX/test)
+       - [Automatisation de l'administration avec PowerShell](https://github.com/L-VSIX/test)
+       - [Gestion et déploiement des stratégies de groupe (GPO)](https://github.com/L-VSIX/test)
 - <b>Conception du socle d'outils collaboratifs (homelab)</b>
      - Configuration de Mattermost :
-       - [Gestion des canaux de communication](https://github.com/L-VSIX/test)
+       - [Organisation et gestion des canaux de communication](https://github.com/L-VSIX/test)
      - Configuration de Cups :
-       - [Gestion d'un imprimante physique et virtuel](https://github.com/L-VSIX/test)
-       - [Conception d'un "scan to folder"](https://github.com/L-VSIX/test)
+       - [Administration d'imprimantes physiques et virtuelles](https://github.com/L-VSIX/test)
+       - [Mise en place d'une solution « Scan to Folder »](https://github.com/L-VSIX/test)
      - Configuration du serveur de fichier :
-       - [Conception de l'architecture DFS](https://github.com/L-VSIX/test)
-       - [Gestion et automatisation des habilitations avec Powershell](https://github.com/L-VSIX/test)
+       - [Conception d'une architecture DFS](https://github.com/L-VSIX/test)
+       - [Automatisation de la gestion des habilitations avec PowerShell](https://github.com/L-VSIX/test)
      - Configuration du GLPI :
-       - [Gestion du support helpdesk](https://github.com/L-VSIX/test)
-       - [Gestion des notifications avec Mattermost](https://github.com/L-VSIX/test)
+       - [Administration du support Helpdesk](https://github.com/L-VSIX/test)
+       - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/test)
 
 <h2> Présentation </h2>
 Professionnel de l'informatique avec 5 années d'expérience, j'interviens sur des missions d'administration systèmes, de support infrastructure et de formation, au sein d'environnements variés. Doté d'une double compétence technique et pédagogique, je m'adapte aussi bien à la gestion de projets complexes qu'à l'accompagnement des utilisateurs.
