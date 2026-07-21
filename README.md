@@ -13,15 +13,16 @@
    - Configuration de Zabbix :
        - [Création d'un dashboard](https://github.com/L-VSIX/test)
        - [Gestion des notifications avec Mattermost](https://github.com/L-VSIX/test)
-       - 
-   - Configuration de Zabbiix :
-       - [Création d'un dashboard](https://github.com/L-VSIX/test)
-       - [Gestion des notifications avec Mattermost](https://github.com/L-VSIX/test)
+       - [Émission de ticket vers Glpi](https://github.com/L-VSIX/test)
+   - Configuration de Wazuh :
+       - [Conception d'un centre des opérations de sécurité (SOC)](https://github.com/L-VSIX/test)
 - <b>Mise en place du socle système </b>
    - Configuration de Proxmox :
-       - [Gestion des ressources systèmes et déploiement des machines virtuelles](https://github.com/L-VSIX/test)
+       - [Gestion des ressources systèmes et déploiement des hôtes](https://github.com/L-VSIX/test)
 - <b>Déploiement du socle réseau</b>
    - Configuration de Proxmox :
+       - [Commutateur virtuelle](https://github.com/L-VSIX/test)
+   - Configuration d'Hyper V :
        - [Commutateur virtuelle](https://github.com/L-VSIX/test)
    - Configuration d'un pare-feu avec OpnSense :
        - [VLAN et segmentation du réseau](https://github.com/L-VSIX/test)
@@ -33,11 +34,12 @@
    - Découverte de l'infrastructure réseau:
        - [Conception et documentation](https://github.com/L-VSIX/test)
 - <b>Déploiement du socle applicatifs (homelab)</b>
-   - [Configuration et administration de Apache Guacamole](https://github.com/L-VSIX/test)
-   - [Configuration et administration de Active Directory](https://github.com/L-VSIX/test)
-- <b>Conception du socle cybersécurité (homelab)</b>
-   - [Configuration et administration de Zabbix](https://github.com/L-VSIX/test)
-   - [Configuration et administration de Wazuh](https://github.com/L-VSIX/test)
+   - Configuration d'Apache Guacamole :
+       - [Mise en situation dans un contexte Helpdesk](https://github.com/L-VSIX/test)
+     - Configuration d'Active Directory :
+       - [Structuration de l'annuaire](https://github.com/L-VSIX/test)
+       - [Automatisation avec Powershell](https://github.com/L-VSIX/test)
+       - [Gestion des GPO](https://github.com/L-VSIX/test)
 - <b>Conception du socle d'outils collaboratifs (homelab)</b>
    - [Configuration et administration de Mattermost](https://github.com/L-VSIX/test)
 
