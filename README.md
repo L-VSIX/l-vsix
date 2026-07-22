@@ -33,10 +33,10 @@
    - Déploiement d'une infrastructure Wi-Fi :
        - [Transformation d'un Raspberry Pi en point d'accès Wi-Fi](https://github.com/L-VSIX/raspberrypi-point-acces-wifi)
    - Découverte de l'infrastructure réseau:
-       - [Documentation et cartographie du réseau](https://github.com/L-VSIX/test)
+       - [Documentation et cartographie du réseau](https://github.com/L-VSIX/documentation-cartographie-reseau)
 - <b>Déploiement du socle applicatifs (homelab)</b>
    - Configuration d'OrangeHRM :
-       - [Gestion et administration des comptes utilisateurs](https://github.com/L-VSIX/test)
+       - [Gestion et administration des comptes utilisateurs](https://github.com/L-VSIX/orangehrm-gestion-comptes)
    - Configuration d'Apache Guacamole :
        - [Mise en situation dans un contexte helpdesk](https://github.com/L-VSIX/test)
      - Configuration d'Active Directory :
