@@ -22,7 +22,7 @@
        - [Gestion des ressources systèmes et déploiement des hôtes](https://github.com/L-VSIX/test)
 - <b>Déploiement du socle réseau</b>
    - Configuration de Proxmox :
-       - [Administration de commutateurs virtuels](https://github.com/L-VSIX/test)
+       - [Administration de commutateurs virtuels](https://github.com/L-VSIX/creation-entreprise-raidaporter)
    - Configuration d'Hyper V :
        - [Administration de commutateurs virtuels](https://github.com/L-VSIX/test)
    - Configuration d'un pare-feu avec OpnSense :
