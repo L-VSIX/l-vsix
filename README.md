@@ -31,7 +31,7 @@
    - Mise en place d'un accès VPN avec Tailscale :
        - [Configuration du routage des sous-réseaux](https://github.com/L-VSIX/tailscale-routage-sous-reseaux)
    - Déploiement d'une infrastructure Wi-Fi :
-       - [Transformation d'un Raspberry Pi en point d'accès Wi-Fi](https://github.com/L-VSIX/test)
+       - [Transformation d'un Raspberry Pi en point d'accès Wi-Fi](https://github.com/L-VSIX/raspberrypi-point-acces-wifi)
    - Découverte de l'infrastructure réseau:
        - [Documentation et cartographie du réseau](https://github.com/L-VSIX/test)
 - <b>Déploiement du socle applicatifs (homelab)</b>
