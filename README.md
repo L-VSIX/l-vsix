@@ -16,7 +16,7 @@
        - [Création automatique de tickets dans GLPI](https://github.com/L-VSIX/zabbix-tickets-glpi)
    - Configuration de Wazuh :
        - [Conception d'un centre des opérations de sécurité (SOC)](https://github.com/L-VSIX/wazuh-soc)
-       - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/test)
+       - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/wazuh-notifications-mattermost)
 - <b>Mise en place du socle système </b>
    - Configuration de Proxmox :
        - [Gestion des ressources systèmes et déploiement des hôtes](https://github.com/L-VSIX/test)
