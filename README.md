@@ -11,7 +11,7 @@
        - [Élaboration d'un plan de reprise d'activité (PRA)](https://github.com/L-VSIX/pbs-plan-de-reprise-pra)
        - [Mise en œuvre de la stratégie de sauvegarde](https://github.com/L-VSIX/pbs-strategie-sauvegarde)
    - Configuration de Zabbix :
-       - [Conception d'un tableau de bord de supervision](https://github.com/L-VSIX/test)
+       - [Conception d'un tableau de bord de supervision](https://github.com/L-VSIX/zabbix-dashboard-supervision)
        - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/test)
        - [Création automatique de tickets dans GLPI](https://github.com/L-VSIX/test)
    - Configuration de Wazuh :
