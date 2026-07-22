@@ -26,7 +26,7 @@
    - Configuration d'Hyper V :
        - [Administration de commutateurs virtuels](https://github.com/L-VSIX/hyperv-commutateurs-virtuels)
    - Configuration d'un pare-feu avec OpnSense :
-       - [Segmentation du réseau avec les VLAN](https://github.com/L-VSIX/test)
+       - [Segmentation du réseau avec les VLAN](https://github.com/L-VSIX/opnsense-segmentation-vlan)
        - [Configuration des réservations DHCP avec Kea](https://github.com/L-VSIX/test)
    - Mise en place d'un accès VPN avec Tailscale :
        - [Configuration du routage des sous-réseaux](https://github.com/L-VSIX/test)
