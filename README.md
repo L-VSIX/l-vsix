@@ -22,9 +22,9 @@
        - [Gestion des ressources systèmes et déploiement des hôtes](https://github.com/L-VSIX/proxmox-gestion-ressources-hotes)
 - <b>Déploiement du socle réseau</b>
    - Configuration de Proxmox :
-       - [Administration de commutateurs virtuels](https://github.com/L-VSIX/creation-entreprise-raidaporter)
-   - Configuration d'Hyper V :
        - [Administration de commutateurs virtuels](https://github.com/L-VSIX/proxmox-commutateurs-virtuels)
+   - Configuration d'Hyper V :
+       - [Administration de commutateurs virtuels](https://github.com/L-VSIX/hyperv-commutateurs-virtuels)
    - Configuration d'un pare-feu avec OpnSense :
        - [Segmentation du réseau avec les VLAN](https://github.com/L-VSIX/test)
        - [Configuration des réservations DHCP avec Kea](https://github.com/L-VSIX/test)
