@@ -19,7 +19,7 @@
        - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/wazuh-notifications-mattermost)
 - <b>Mise en place du socle système </b>
    - Configuration de Proxmox :
-       - [Gestion des ressources systèmes et déploiement des hôtes](https://github.com/L-VSIX/test)
+       - [Gestion des ressources systèmes et déploiement des hôtes](https://github.com/L-VSIX/proxmox-gestion-ressources-hotes)
 - <b>Déploiement du socle réseau</b>
    - Configuration de Proxmox :
        - [Administration de commutateurs virtuels](https://github.com/L-VSIX/creation-entreprise-raidaporter)
