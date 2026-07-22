@@ -8,7 +8,7 @@
    - Découverte des composants du datacenter :
        - [Conception de l'infrastructure](https://github.com/L-VSIX/conception-infrastructure-datacenter)
    - Configuration de Proxmox Backup :
-       - [Élaboration d'un plan de reprise d'activité (PRA)](https://github.com/L-VSIX/test)
+       - [Élaboration d'un plan de reprise d'activité (PRA)](https://github.com/L-VSIX/pbs-plan-de-reprise-pra)
        - [Mise en œuvre de la stratégie de sauvegarde](https://github.com/L-VSIX/test)
    - Configuration de Zabbix :
        - [Conception d'un tableau de bord de supervision](https://github.com/L-VSIX/test)
