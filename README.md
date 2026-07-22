@@ -6,7 +6,7 @@
    - [Création de l'entreprise RAIDAPORTER&Co](https://github.com/L-VSIX/creation-entreprise-raidaporter)
 - <b>Mise en place du datacenter </b>
    - Découverte des composants du datacenter :
-       - [Conception de l'infrastructure](https://github.com/L-VSIX/test)
+       - [Conception de l'infrastructure](https://github.com/L-VSIX/conception-infrastructure-datacenter)
    - Configuration de Proxmox Backup :
        - [Élaboration d'un plan de reprise d'activité (PRA)](https://github.com/L-VSIX/test)
        - [Mise en œuvre de la stratégie de sauvegarde](https://github.com/L-VSIX/test)
