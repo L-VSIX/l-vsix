@@ -3,7 +3,7 @@
 
 ## Projets personnels
 - <b>Immersion dans un environnement de production </b>
-   - [Création de l'entreprise RAIDAPORTER&Co](https://github.com/L-VSIX/test)
+   - [Création de l'entreprise RAIDAPORTER&Co](https://github.com/L-VSIX/creation-entreprise-raidaporter)
 - <b>Mise en place du datacenter </b>
    - Découverte des composants du datacenter :
        - [Conception de l'infrastructure](https://github.com/L-VSIX/test)
