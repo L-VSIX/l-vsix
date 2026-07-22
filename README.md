@@ -13,7 +13,7 @@
    - Configuration de Zabbix :
        - [Conception d'un tableau de bord de supervision](https://github.com/L-VSIX/zabbix-dashboard-supervision)
        - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/zabbix-notifications-mattermost)
-       - [Création automatique de tickets dans GLPI](https://github.com/L-VSIX/test)
+       - [Création automatique de tickets dans GLPI](https://github.com/L-VSIX/zabbix-tickets-glpi)
    - Configuration de Wazuh :
        - [Conception d'un centre des opérations de sécurité (SOC)](https://github.com/L-VSIX/test)
        - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/test)
