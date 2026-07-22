@@ -38,9 +38,9 @@
    - Configuration d'OrangeHRM :
        - [Gestion et administration des comptes utilisateurs](https://github.com/L-VSIX/orangehrm-gestion-comptes)
    - Configuration d'Apache Guacamole :
-       - [Mise en situation dans un contexte helpdesk](https://github.com/L-VSIX/test)
+       - [Mise en situation dans un contexte helpdesk](https://github.com/L-VSIX/guacamole-helpdesk)
      - Configuration d'Active Directory :
-       - [Structuration de l'annuaire Active Directory](https://github.com/L-VSIX/test)
+       - [Structuration de l'annuaire Active Directory](https://github.com/L-VSIX/ad-structuration-annuaire)
        - [Automatisation de l'administration avec PowerShell](https://github.com/L-VSIX/test)
        - [Gestion et déploiement des stratégies de groupe (GPO)](https://github.com/L-VSIX/test)
 - <b>Conception du socle d'outils collaboratifs (homelab)</b>
