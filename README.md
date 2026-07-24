@@ -41,20 +41,20 @@
        - [Mise en situation dans un contexte helpdesk](https://github.com/L-VSIX/guacamole-helpdesk)
      - Configuration d'Active Directory :
        - [Structuration de l'annuaire Active Directory](https://github.com/L-VSIX/ad-structuration-annuaire)
-       - [Automatisation de l'administration avec PowerShell](https://github.com/L-VSIX/test)
-       - [Gestion et déploiement des stratégies de groupe (GPO)](https://github.com/L-VSIX/test)
+       - [Automatisation de l'administration avec PowerShell](https://github.com/L-VSIX/ad-automatisation-powershell)
+       - [Gestion et déploiement des stratégies de groupe (GPO)](https://github.com/L-VSIX/ad-gpo)
 - <b>Conception du socle d'outils collaboratifs (homelab)</b>
      - Configuration de Mattermost :
-       - [Organisation et gestion des canaux de communication](https://github.com/L-VSIX/test)
+       - [Organisation et gestion des canaux de communication](https://github.com/L-VSIX/mattermost-canaux-communication)
      - Configuration de Cups :
-       - [Administration d'imprimantes physiques et virtuelles](https://github.com/L-VSIX/test)
-       - [Mise en place d'une solution « Scan to Folder »](https://github.com/L-VSIX/test)
+       - [Administration d'imprimantes physiques et virtuelles](https://github.com/L-VSIX/cups-administration-imprimantes)
+       - [Mise en place d'une solution « Scan to Folder »](https://github.com/L-VSIX/cups-scan-to-folder)
      - Configuration du serveur de fichier :
-       - [Conception d'une architecture DFS](https://github.com/L-VSIX/test)
-       - [Automatisation de la gestion des habilitations avec PowerShell](https://github.com/L-VSIX/test)
+       - [Conception d'une architecture DFS](https://github.com/L-VSIX/dfs-architecture)
+       - [Automatisation de la gestion des habilitations avec PowerShell](https://github.com/L-VSIX/dfs-habilitations-powershell)
      - Configuration du GLPI :
-       - [Administration du support Helpdesk](https://github.com/L-VSIX/test)
-       - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/test)
+       - [Administration du support Helpdesk](https://github.com/L-VSIX/glpi-support-helpdesk)
+       - [Intégration des notifications avec Mattermost](https://github.com/L-VSIX/glpi-notifications-mattermost)
 
 <h2> Présentation </h2>
 Professionnel de l'informatique avec 5 années d'expérience, j'interviens sur des missions d'administration systèmes, de support infrastructure et de formation, au sein d'environnements variés. Doté d'une double compétence technique et pédagogique, je m'adapte aussi bien à la gestion de projets complexes qu'à l'accompagnement des utilisateurs.
